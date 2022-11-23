@@ -5,7 +5,7 @@
 
 I am a technologist in analysis and development of information systems of the SENA, with knowledge in web development.
 My skills:
-knowledge in programming languages in the backend part in: Js, python, databases in MySql, knowledge in the MEVN stack, also in the frontend part some knowledge in html5, css (bootstrap).
+knowledge in programming languages in the backend part in: Js, Angular, databases in MySql, knowledge in the MEVN stack, also in the frontend part some knowledge in html5, css (bootstrap).
 Soft skills:
 interpersonal relations
 responsibility 
